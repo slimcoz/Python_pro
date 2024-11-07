@@ -1,0 +1,5 @@
+Libreria necesaria para utilizar 
+
+discord.py
+
+
